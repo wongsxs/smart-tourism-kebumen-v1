@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063868423441",
+    "project_id": "wisata-kebumen-29eb9",
+    "storage_bucket": "wisata-kebumen-29eb9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063868423441:android:1cec3c400b48664571c0b0",
+        "android_client_info": {
+          "package_name": "com.yuudev.wisatakebumen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBEN2VEH4yVaHV8UKU2nNCgpqx2MvEldE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
