@@ -76,7 +76,7 @@ The application is designed to fetch dynamic data from a remote endpoint. Based 
 ## 🛡️ License
 
 ```text
-Copyright 2024 Smart Tourism Kebumen
+Copyright 2026 Smart Tourism Kebumen
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
