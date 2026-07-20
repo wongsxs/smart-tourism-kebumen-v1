@@ -59,7 +59,7 @@ app/src/main/java/com/yuudev/wisatakebumen/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/smart-tourism-kebumen.git
+    git clone https://github.com/wongsxs/smart-tourism-kebumen-v1.git
     ```
 2.  **Open the project:**
     Open Android Studio and select `File > Open`, then navigate to the cloned directory.
